@@ -1,0 +1,19 @@
+{ "cert_serial_number" : "8ViTKCFiGmtcsLyJ05",
+    "created_at" : 1363793595,
+    "id" : "8ViTKCFiGmtcsLyJ04",
+    "links" : [ { "href" : "https://api.boundary.com/3iCJZBSlCiIYREYrncvg45FOsho/meters/8ViTKCFiGmtcsLyJ04",
+        "rel" : "self"
+    },
+        { "href" : "https://api.boundary.com/3iCJZBSlCiIYREYrncvg45FOsho/meters/8ViTKCFiGmtcsLyJ04/cert.pem",
+            "rel" : "cert"
+        },
+        { "href" : "https://api.boundary.com/3iCJZBSlCiIYREYrncvg45FOsho/meters/8ViTKCFiGmtcsLyJ04/key.pem",
+            "rel" : "key"
+        }
+    ],
+    "name" : "ip-10-36-155-245.eu-west-1.compute.internal",
+    "obs_domain_id" : "86",
+    "org_id" : "3iCJZBSlCiIYREYrncvg45FOsho",
+    "tags" : [  ],
+    "updated_at" : 1363793595
+}
